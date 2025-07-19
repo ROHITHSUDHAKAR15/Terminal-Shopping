@@ -9,6 +9,8 @@ A Java-based command-line shopping system that demonstrates object-oriented desi
 - **User Authentication:** Secure login and user management via a dedicated service layer.
 - **Command-Line Interface:** Intuitive CLI for seamless user interaction and system navigation.
 - **Extensible Architecture:** Utilizes MVC principles and design patterns (Factory, Builder, Prototype) for easy maintenance and scalability.
+- <img width="585" height="320" alt="image" src="https://github.com/user-attachments/assets/6d6ae245-4796-4174-a89b-743b3592d6bc" />
+
 
 ## Project Structure
 
